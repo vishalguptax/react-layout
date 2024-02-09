@@ -20,24 +20,27 @@ export const SideNav = () => {
       <NavToggle />
       <Logo />
       <nav className="flex flex-col justify-between flex-1 gap-2">
-        {isCollapsed ? (
-          <ul className="space-y-3">
-            {navItems.map((item) => (
-              <NavItem key={item.key} item={item} />
-            ))}
-          </ul>
-        ) : (
-          <Scrollbars autoHide hideTracksWhenNotNeeded>
-            <ul className="space-y-3 overflow-x-hidden">
-              {navItems.map((item) => (
-                <NavItem key={item.key} item={item} />
-              ))}
-            </ul>
-          </Scrollbars>
-        )}
-
+        {renderNavItems(isCollapsed)}
         <NavBottom />
       </nav>
     </aside>
+  );
+};
+
+const renderNavItems = (isCollapsed) => {
+  const navList = (
+    <ul className={`space-y-3 ${isCollapsed ? "" : "overflow-x-hidden"}`}>
+      {navItems.map((item) => (
+        <NavItem key={item.key} item={item} />
+      ))}
+    </ul>
+  );
+
+  return isCollapsed ? (
+    navList
+  ) : (
+    <Scrollbars autoHide hideTracksWhenNotNeeded>
+      {navList}
+    </Scrollbars>
   );
 };

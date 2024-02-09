@@ -1,339 +1,58 @@
 const Home = () => {
   return (
-    <div className="space-y-4">
-      <div className="text-center grid place-items-center text-2xl font-medium">
-        Home Page
+    <div>
+      <h1>Home</h1>
+      <div className="space-y-4">
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe sed at
+          consectetur et totam natus? Similique velit quia nemo natus!
+        </p>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis
+          asperiores eius aspernatur neque magnam hic commodi, sapiente quisquam
+          animi nostrum!
+        </p>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis
+          asperiores eius aspernatur neque magnam hic commodi, sapiente quisquam
+          animi nostrum!
+        </p>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis
+          asperiores eius aspernatur neque magnam hic commodi, sapiente quisquam
+          animi nostrum!
+        </p>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis
+          asperiores eius aspernatur neque magnam hic commodi, sapiente quisquam
+          animi nostrum!
+        </p>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis
+          asperiores eius aspernatur neque magnam hic commodi, sapiente quisquam
+          animi nostrum!
+        </p>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis
+          asperiores eius aspernatur neque magnam hic commodi, sapiente quisquam
+          animi nostrum!
+        </p>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis
+          asperiores eius aspernatur neque magnam hic commodi, sapiente quisquam
+          animi nostrum!
+        </p>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis
+          asperiores eius aspernatur neque magnam hic commodi, sapiente quisquam
+          animi nostrum!
+        </p>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis
+          asperiores eius aspernatur neque magnam hic commodi, sapiente quisquam
+          animi nostrum!
+        </p>
       </div>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-        nostrum voluptatum tenetur aliquid voluptas dolorem hic! Perferendis
-        dolores fuga numquam temporibus voluptas nemo sapiente, sed rem iusto ab
-        tempora!
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-        nostrum voluptatum tenetur aliquid voluptas dolorem hic! Perferendis
-        dolores fuga numquam temporibus voluptas nemo sapiente, sed rem iusto ab
-        tempora!
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-        nostrum voluptatum tenetur aliquid voluptas dolorem hic! Perferendis
-        dolores fuga numquam temporibus voluptas nemo sapiente, sed rem iusto ab
-        tempora!
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-        nostrum voluptatum tenetur aliquid voluptas dolorem hic! Perferendis
-        dolores fuga numquam temporibus voluptas nemo sapiente, sed rem iusto ab
-        tempora!
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-        nostrum voluptatum tenetur aliquid voluptas dolorem hic! Perferendis
-        dolores fuga numquam temporibus voluptas nemo sapiente, sed rem iusto ab
-        tempora!
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-        nostrum voluptatum tenetur aliquid voluptas dolorem hic! Perferendis
-        dolores fuga numquam temporibus voluptas nemo sapiente, sed rem iusto ab
-        tempora!
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-        nostrum voluptatum tenetur aliquid voluptas dolorem hic! Perferendis
-        dolores fuga numquam temporibus voluptas nemo sapiente, sed rem iusto ab
-        tempora!
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-        nostrum voluptatum tenetur aliquid voluptas dolorem hic! Perferendis
-        dolores fuga numquam temporibus voluptas nemo sapiente, sed rem iusto ab
-        tempora!
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-        nostrum voluptatum tenetur aliquid voluptas dolorem hic! Perferendis
-        dolores fuga numquam temporibus voluptas nemo sapiente, sed rem iusto ab
-        tempora!
-      </p>
-      <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-        nostrum voluptatum tenetur aliquid voluptas dolorem hic! Perferendis
-        dolores fuga numquam temporibus voluptas nemo sapiente, sed rem iusto ab
-        tempora!
-      </p>
-      <p className="space-y-4">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-        nostrum voluptatum tenetur aliquid voluptas dolorem hic! Perferendis
-        dolores fuga numquam temporibus voluptas nemo sapiente, sed rem iusto ab
-        tempora!
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-          nostrum voluptatum tenetur aliquid voluptas dolorem hic! Perferendis
-          dolores fuga numquam temporibus voluptas nemo sapiente, sed rem iusto
-          ab tempora!
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-          nostrum voluptatum tenetur aliquid voluptas dolorem hic! Perferendis
-          dolores fuga numquam temporibus voluptas nemo sapiente, sed rem iusto
-          ab tempora!
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-          nostrum voluptatum tenetur aliquid voluptas dolorem hic! Perferendis
-          dolores fuga numquam temporibus voluptas nemo sapiente, sed rem iusto
-          ab tempora!
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-          nostrum voluptatum tenetur aliquid voluptas dolorem hic! Perferendis
-          dolores fuga numquam temporibus voluptas nemo sapiente, sed rem iusto
-          ab tempora!
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-          nostrum voluptatum tenetur aliquid voluptas dolorem hic! Perferendis
-          dolores fuga numquam temporibus voluptas nemo sapiente, sed rem iusto
-          ab tempora!
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-          nostrum voluptatum tenetur aliquid voluptas dolorem hic! Perferendis
-          dolores fuga numquam temporibus voluptas nemo sapiente, sed rem iusto
-          ab tempora!
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-          nostrum voluptatum tenetur aliquid voluptas dolorem hic! Perferendis
-          dolores fuga numquam temporibus voluptas nemo sapiente, sed rem iusto
-          ab tempora!
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-          nostrum voluptatum tenetur aliquid voluptas dolorem hic! Perferendis
-          dolores fuga numquam temporibus voluptas nemo sapiente, sed rem iusto
-          ab tempora!
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-          nostrum voluptatum tenetur aliquid voluptas dolorem hic! Perferendis
-          dolores fuga numquam temporibus voluptas nemo sapiente, sed rem iusto
-          ab tempora!
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-          nostrum voluptatum tenetur aliquid voluptas dolorem hic! Perferendis
-          dolores fuga numquam temporibus voluptas nemo sapiente, sed rem iusto
-          ab tempora!
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-          nostrum voluptatum tenetur aliquid voluptas dolorem hic! Perferendis
-          dolores fuga numquam temporibus voluptas nemo sapiente, sed rem iusto
-          ab tempora!
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-          nostrum voluptatum tenetur aliquid voluptas dolorem hic! Perferendis
-          dolores fuga numquam temporibus voluptas nemo sapiente, sed rem iusto
-          ab tempora!
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-          nostrum voluptatum tenetur aliquid voluptas dolorem hic! Perferendis
-          dolores fuga numquam temporibus voluptas nemo sapiente, sed rem iusto
-          ab tempora!
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-          nostrum voluptatum tenetur aliquid voluptas dolorem hic! Perferendis
-          dolores fuga numquam temporibus voluptas nemo sapiente, sed rem iusto
-          ab tempora!
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-          nostrum voluptatum tenetur aliquid voluptas dolorem hic! Perferendis
-          dolores fuga numquam temporibus voluptas nemo sapiente, sed rem iusto
-          ab tempora!
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-          nostrum voluptatum tenetur aliquid voluptas dolorem hic! Perferendis
-          dolores fuga numquam temporibus voluptas nemo sapiente, sed rem iusto
-          ab tempora!
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-          nostrum voluptatum tenetur aliquid voluptas dolorem hic! Perferendis
-          dolores fuga numquam temporibus voluptas nemo sapiente, sed rem iusto
-          ab tempora!
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-          nostrum voluptatum tenetur aliquid voluptas dolorem hic! Perferendis
-          dolores fuga numquam temporibus voluptas nemo sapiente, sed rem iusto
-          ab tempora!
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-          nostrum voluptatum tenetur aliquid voluptas dolorem hic! Perferendis
-          dolores fuga numquam temporibus voluptas nemo sapiente, sed rem iusto
-          ab tempora!
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-          nostrum voluptatum tenetur aliquid voluptas dolorem hic! Perferendis
-          dolores fuga numquam temporibus voluptas nemo sapiente, sed rem iusto
-          ab tempora!
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-          nostrum voluptatum tenetur aliquid voluptas dolorem hic! Perferendis
-          dolores fuga numquam temporibus voluptas nemo sapiente, sed rem iusto
-          ab tempora!
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-          nostrum voluptatum tenetur aliquid voluptas dolorem hic! Perferendis
-          dolores fuga numquam temporibus voluptas nemo sapiente, sed rem iusto
-          ab tempora!
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-          nostrum voluptatum tenetur aliquid voluptas dolorem hic! Perferendis
-          dolores fuga numquam temporibus voluptas nemo sapiente, sed rem iusto
-          ab tempora!
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-          nostrum voluptatum tenetur aliquid voluptas dolorem hic! Perferendis
-          dolores fuga numquam temporibus voluptas nemo sapiente, sed rem iusto
-          ab tempora!
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-          nostrum voluptatum tenetur aliquid voluptas dolorem hic! Perferendis
-          dolores fuga numquam temporibus voluptas nemo sapiente, sed rem iusto
-          ab tempora!
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-          nostrum voluptatum tenetur aliquid voluptas dolorem hic! Perferendis
-          dolores fuga numquam temporibus voluptas nemo sapiente, sed rem iusto
-          ab tempora!
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-          nostrum voluptatum tenetur aliquid voluptas dolorem hic! Perferendis
-          dolores fuga numquam temporibus voluptas nemo sapiente, sed rem iusto
-          ab tempora!
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-          nostrum voluptatum tenetur aliquid voluptas dolorem hic! Perferendis
-          dolores fuga numquam temporibus voluptas nemo sapiente, sed rem iusto
-          ab tempora!
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-          nostrum voluptatum tenetur aliquid voluptas dolorem hic! Perferendis
-          dolores fuga numquam temporibus voluptas nemo sapiente, sed rem iusto
-          ab tempora!
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-          nostrum voluptatum tenetur aliquid voluptas dolorem hic! Perferendis
-          dolores fuga numquam temporibus voluptas nemo sapiente, sed rem iusto
-          ab tempora!
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-          nostrum voluptatum tenetur aliquid voluptas dolorem hic! Perferendis
-          dolores fuga numquam temporibus voluptas nemo sapiente, sed rem iusto
-          ab tempora!
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-          nostrum voluptatum tenetur aliquid voluptas dolorem hic! Perferendis
-          dolores fuga numquam temporibus voluptas nemo sapiente, sed rem iusto
-          ab tempora!
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-          nostrum voluptatum tenetur aliquid voluptas dolorem hic! Perferendis
-          dolores fuga numquam temporibus voluptas nemo sapiente, sed rem iusto
-          ab tempora!
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-          nostrum voluptatum tenetur aliquid voluptas dolorem hic! Perferendis
-          dolores fuga numquam temporibus voluptas nemo sapiente, sed rem iusto
-          ab tempora!
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-          nostrum voluptatum tenetur aliquid voluptas dolorem hic! Perferendis
-          dolores fuga numquam temporibus voluptas nemo sapiente, sed rem iusto
-          ab tempora!
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-          nostrum voluptatum tenetur aliquid voluptas dolorem hic! Perferendis
-          dolores fuga numquam temporibus voluptas nemo sapiente, sed rem iusto
-          ab tempora!
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-          nostrum voluptatum tenetur aliquid voluptas dolorem hic! Perferendis
-          dolores fuga numquam temporibus voluptas nemo sapiente, sed rem iusto
-          ab tempora!
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-          nostrum voluptatum tenetur aliquid voluptas dolorem hic! Perferendis
-          dolores fuga numquam temporibus voluptas nemo sapiente, sed rem iusto
-          ab tempora!
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-          nostrum voluptatum tenetur aliquid voluptas dolorem hic! Perferendis
-          dolores fuga numquam temporibus voluptas nemo sapiente, sed rem iusto
-          ab tempora!
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-          nostrum voluptatum tenetur aliquid voluptas dolorem hic! Perferendis
-          dolores fuga numquam temporibus voluptas nemo sapiente, sed rem iusto
-          ab tempora!
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-          nostrum voluptatum tenetur aliquid voluptas dolorem hic! Perferendis
-          dolores fuga numquam temporibus voluptas nemo sapiente, sed rem iusto
-          ab tempora!
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-          nostrum voluptatum tenetur aliquid voluptas dolorem hic! Perferendis
-          dolores fuga numquam temporibus voluptas nemo sapiente, sed rem iusto
-          ab tempora!
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-          nostrum voluptatum tenetur aliquid voluptas dolorem hic! Perferendis
-          dolores fuga numquam temporibus voluptas nemo sapiente, sed rem iusto
-          ab tempora!
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur
-          nostrum voluptatum tenetur aliquid voluptas dolorem hic! Perferendis
-          dolores fuga numquam temporibus voluptas nemo sapiente, sed rem iusto
-          ab tempora!
-        </p>
-      </p>
     </div>
   );
 };
