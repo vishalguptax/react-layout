@@ -4,7 +4,7 @@
 export const Header = () => {
   // const { toggleMobileMenu } = useLayout();
   return (
-    <header className="h-[70px] flex items-center justify-between px-5 border-b shadow w-full">
+    <header className="h-[70px] sticky top-0 bg-slate-100 flex items-center justify-between px-5 border-b shadow w-full">
       <div className="flex items-center gap-4 sm:gap-0">
         {/* <button onClick={toggleMobileMenu} className="sm:hidden">
           <BiMenu className="text-2xl" />

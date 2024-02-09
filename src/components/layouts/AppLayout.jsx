@@ -5,9 +5,9 @@ import { SideNav } from "../templates/sidebar/SideNav";
 
 const AppLayout = () => {
   return (
-    <div className="min-h-screen flex flex-auto">
+    <div className="min-h-screen flex flex-auto relative">
       <SideNav />
-      <div className="w-full">
+      <div className="w-full relative">
         <Header />
         <Suspense fallback={<div>Loading...</div>}>
           <main className="px-5 py-3 min-h-[calc(100vh-70px)]">

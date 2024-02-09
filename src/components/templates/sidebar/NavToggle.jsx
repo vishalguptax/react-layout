@@ -7,7 +7,7 @@ export const NavToggle = () => {
     <span
       onClick={toggleNav}
       role="button"
-      className="p-1 border border-gray-700 rounded-full bg-indigo-400 absolute top-[28px] -right-2.5 flex items-center justify-center text-white"
+      className="p-1 border border-gray-700 z-40 rounded-full bg-indigo-400 absolute top-[28px] -right-2.5 flex items-center justify-center text-white"
     >
       {isCollapsed ? (
         <BiRightArrow className="text-xs font-semibold" />

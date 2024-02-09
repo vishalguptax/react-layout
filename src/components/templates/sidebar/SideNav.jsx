@@ -1,3 +1,4 @@
+import Scrollbars from "react-custom-scrollbars-2";
 import { navItems } from "../../../configs/nav-configs/nav-items.config";
 import { useLayout } from "../../../hooks/useLayout";
 import { Logo } from "../../shared/Logo";
@@ -10,18 +11,31 @@ export const SideNav = () => {
 
   return (
     <aside
-      className={`w-[${isCollapsed ? "70px" : "240px"}] ${
-        isCollapsed ? "px-3" : "px-4"
+      className={` ${
+        isCollapsed
+          ? "px-3 w-[70px]"
+          : "w-[240px] px-4 h-screen sticky top-0 left-0 z-10"
       } relative transition-all border-r shadow-md flex flex-col pb-4`}
     >
       <NavToggle />
       <Logo />
-      <nav className="flex flex-col justify-between flex-1">
-        <ul className="flex flex-col gap-4">
-          {navItems.map((item) => (
-            <NavItem key={item.key} item={item} />
-          ))}
-        </ul>
+      <nav className="flex flex-col justify-between flex-1 gap-2">
+        {isCollapsed ? (
+          <ul className="space-y-3">
+            {navItems.map((item) => (
+              <NavItem key={item.key} item={item} />
+            ))}
+          </ul>
+        ) : (
+          <Scrollbars autoHide hideTracksWhenNotNeeded>
+            <ul className="space-y-3 overflow-x-hidden">
+              {navItems.map((item) => (
+                <NavItem key={item.key} item={item} />
+              ))}
+            </ul>
+          </Scrollbars>
+        )}
+
         <NavBottom />
       </nav>
     </aside>
